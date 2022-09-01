@@ -1,0 +1,16 @@
+C:\Users\Настасья\история\глава один\bin\Debug\net6.0\глава один.exe
+C:\Users\Настасья\история\глава один\bin\Debug\net6.0\глава один.deps.json
+C:\Users\Настасья\история\глава один\bin\Debug\net6.0\глава один.runtimeconfig.json
+C:\Users\Настасья\история\глава один\bin\Debug\net6.0\глава один.dll
+C:\Users\Настасья\история\глава один\bin\Debug\net6.0\ref\глава один.dll
+C:\Users\Настасья\история\глава один\bin\Debug\net6.0\глава один.pdb
+C:\Users\Настасья\история\глава один\obj\Debug\net6.0\глава один.GlobalUsings.g.cs
+C:\Users\Настасья\история\глава один\obj\Debug\net6.0\глава один.csproj.AssemblyReference.cache
+C:\Users\Настасья\история\глава один\obj\Debug\net6.0\глава один.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Настасья\история\глава один\obj\Debug\net6.0\глава один.AssemblyInfoInputs.cache
+C:\Users\Настасья\история\глава один\obj\Debug\net6.0\глава один.AssemblyInfo.cs
+C:\Users\Настасья\история\глава один\obj\Debug\net6.0\глава один.csproj.CoreCompileInputs.cache
+C:\Users\Настасья\история\глава один\obj\Debug\net6.0\глава один.dll
+C:\Users\Настасья\история\глава один\obj\Debug\net6.0\ref\глава один.dll
+C:\Users\Настасья\история\глава один\obj\Debug\net6.0\глава один.pdb
+C:\Users\Настасья\история\глава один\obj\Debug\net6.0\глава один.genruntimeconfig.cache
